@@ -1,6 +1,7 @@
 #Spotify Web App
 
 Simple Apple Automator workflow to quickly open Spotify Web Player site in Google Chrome. It will look like the official app, just without the useless rubbish.
+
 *It uses Chrome instead of Safari because the latter doesn't support Google's Widevine DRM component yet.*
 
 ##Installation
